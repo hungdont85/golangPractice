@@ -9,5 +9,5 @@ func PrintHello() string {
 func main() {
 	fmt.Println(PrintHello())
 	fmt.Println("hello world")
-	fmt.Println("halo")
+	fmt.Println("halo ")
 }
